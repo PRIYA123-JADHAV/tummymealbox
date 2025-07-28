@@ -1,0 +1,99 @@
+Folder PATH listing
+Volume serial number is F4EE-D35E
+C:.
+³   .firebaserc
+³   .gitignore
+³   firebase.json
+³   folder.txt
+³   generate-hash.php
+³   
+ÃÄÄÄ.firebase
+³       hosting.cHVibGlj.cache
+³       
+ÃÄÄÄadmin
+³   ³   add-dish.php
+³   ³   dashboard.php
+³   ³   delete-dish.php
+³   ³   delete-order.php
+³   ³   edit-dish.php
+³   ³   export-report.php
+³   ³   generate-reports.php
+³   ³   get-pending-orders.php
+³   ³   login.php
+³   ³   logout.php
+³   ³   manage-menus.php
+³   ³   report.php
+³   ³   send-notification.php
+³   ³   update-order-status.php
+³   ³   view-customers.php
+³   ³   view-feedback.php
+³   ³   view-notifications.php
+³   ³   view-orders.php
+³   ³   
+³   ÀÄÄÄcss
+ÃÄÄÄassets
+³       style.css
+³       
+ÃÄÄÄconfig
+³       db.php
+³       
+ÃÄÄÄcustomer
+³       checkout.php
+³       dashboard.php
+³       feedback.php
+³       generate-hash.php
+³       home.php
+³       login.html
+³       login.php
+³       logout.php
+³       menu.php
+³       place-order.php
+³       register.html
+³       register.php
+³       thankyou.php
+³       
+ÃÄÄÄdatabase
+³       mealorderapp.sql
+³       
+ÃÄÄÄimages
+³       food1.png
+³       food2.png
+³       food3.png
+³       food4.png
+³       food5.png
+³       food6.png
+³       food7.png
+³       success.png
+³       
+ÀÄÄÄpublic
+    ÃÄÄÄadmin
+    ³   ³   add-dish.php
+    ³   ³   dashboard.php
+    ³   ³   delete-dish.php
+    ³   ³   delete-order.php
+    ³   ³   edit-dish.php
+    ³   ³   export-report.php
+    ³   ³   generate-reports.php
+    ³   ³   get-pending-orders.php
+    ³   ³   login.php
+    ³   ³   logout.php
+    ³   ³   manage-menus.php
+    ³   ³   report.php
+    ³   ³   send-notification.php
+    ³   ³   update-order-status.php
+    ³   ³   view-customers.php
+    ³   ³   view-feedback.php
+    ³   ³   view-notifications.php
+    ³   ³   view-orders.php
+    ³   ³   
+    ³   ÀÄÄÄcss
+    ÀÄÄÄimages
+            food1.png
+            food2.png
+            food3.png
+            food4.png
+            food5.png
+            food6.png
+            food7.png
+            success.png
+            
